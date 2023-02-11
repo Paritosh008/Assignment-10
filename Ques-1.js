@@ -14,3 +14,5 @@ function findregextime(str){
         return "Invalid"
     }
 }
+let result = findregextime(str)
+// console.log(result)
